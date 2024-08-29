@@ -6,6 +6,7 @@
 - <b>SOC/Security Analyst Practice Labs</b>
   - [Brute Force Response](https://github.com/LuisMateo1/Brute-Force-Respose)
   - [Phishing Email Response](https://github.com/LuisMateo1/Phishing-Email-Response)
+  - [Path Traversal Response - CVE-2024-24919](https://github.com/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919)
  
 <h2> 📚 My Certifications:</h2>
 
