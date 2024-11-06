@@ -7,6 +7,7 @@
   - [Brute Force Response](https://github.com/LuisMateo1/Brute-Force-Respose)
   - [Phishing Email Response](https://github.com/LuisMateo1/Phishing-Email-Response)
   - [Path Traversal Response - CVE-2024-24919](https://github.com/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919)
+  - [Analyzing Network Traffic Using Wireshark](https://github.com/LuisMateo1/Analyzing-Output-from-Security-Appliance-Logs-Wireshark)
  
 <h2> 📚 My Certifications:</h2>
 
