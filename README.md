@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luis! <br/>I am a student at WGU and an aspiring Cybersecurity Professional</h1>
+<h1>Hi, I'm Luis! <br/>I am a WGU Graduate and an Aspiring Cybersecurity Professional</h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
