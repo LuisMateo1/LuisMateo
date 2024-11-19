@@ -2,18 +2,22 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>[Creating a Secure Lab Environment](https://github.com/LuisMateo1/VirtualBox-Home-Lab/)</b>
-- <b>SOC/Security Analyst Practice Labs</b>
+- **SOC/Security Analyst Practice Labs**
   - [Brute Force Response](https://github.com/LuisMateo1/Brute-Force-Respose)
   - [Phishing Email Response](https://github.com/LuisMateo1/Phishing-Email-Response)
   - [Path Traversal Response - CVE-2024-24919](https://github.com/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919)
   - [Analyzing Network Traffic Using Wireshark](https://github.com/LuisMateo1/Analyzing-Output-from-Security-Appliance-Logs-Wireshark)
   - [Analyzing IDS Logs on a SIEM](https://github.com/LuisMateo1/Analyzing-Output-from-Security-Appliance-Logs-SIEM)
   - [Analyzing and logging the Behaviour of Malware Using Sysinternals Tools](https://github.com/LuisMateo1/Analyzing-Output-from-Endpoint-Security-Monitoring-Tools-Sysinternals)
-- <b>Active Directory/IAM Labs</b>
-  - [Identity and Access Management: Performing Account and Permissions Audits](https://github.com/LuisMateo1/IAM-Performing-Account-and-Permissions-Audits)
-  - [Identity and Access Management: Configuring and Analyzing Share Permissions](https://github.com/LuisMateo1/IAM-Configuring-and-Analyzing-Share-Permissions)
- 
+- **Active Directory/IAM Labs**
+  - [Identity and Access Management - Performing Account and Permissions Audits](https://github.com/LuisMateo1/IAM-Performing-Account-and-Permissions-Audits)
+  - [Identity and Access Management - Configuring and Analyzing Share Permissions](https://github.com/LuisMateo1/IAM-Configuring-and-Analyzing-Share-Permissions)
+- **Pentesting Labs**
+  - [Discovering and Enumerating Targets Using Nmap](https://github.com/LuisMateo1/Discovering-and-Enumerating-Targets-with-Nmap)
+- **Miscellaneous Labs**
+  - [Creating a Secure Lab Environment](https://github.com/LuisMateo1/VirtualBox-Home-Lab/)
+  - [Cyber Quest - Fall 2024 Capture The Flag](https://github.com/LuisMateo1/Cyber-Quests-Fall-2024-Challange)
+
 <h2> 📚 My Certifications:</h2>
 
 - <b>CompTIA</b>
