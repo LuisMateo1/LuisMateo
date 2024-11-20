@@ -9,6 +9,7 @@
   - [Analyzing Network Traffic Using Wireshark](https://github.com/LuisMateo1/Analyzing-Output-from-Security-Appliance-Logs-Wireshark)
   - [Analyzing IDS Logs on a SIEM](https://github.com/LuisMateo1/Analyzing-Output-from-Security-Appliance-Logs-SIEM)
   - [Analyzing and logging the Behaviour of Malware Using Sysinternals Tools](https://github.com/LuisMateo1/Analyzing-Output-from-Endpoint-Security-Monitoring-Tools-Sysinternals)
+  - [Configuring pfSense Firewall ACL Rules and Network Segmentation](https://github.com/LuisMateo1/Configuring-Network-Segmentation-and-Security)
 - **Active Directory/IAM Labs**
   - [Identity and Access Management - Performing Account and Permissions Audits](https://github.com/LuisMateo1/IAM-Performing-Account-and-Permissions-Audits)
   - [Identity and Access Management - Configuring and Analyzing Share Permissions](https://github.com/LuisMateo1/IAM-Configuring-and-Analyzing-Share-Permissions)
