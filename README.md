@@ -11,6 +11,7 @@
   - [Analyzing and logging the Behaviour of Malware Using Sysinternals Tools](https://github.com/LuisMateo1/Analyzing-Output-from-Endpoint-Security-Monitoring-Tools-Sysinternals)
   - [Configuring pfSense Firewall ACL Rules and Network Segmentation](https://github.com/LuisMateo1/Configuring-Network-Segmentation-and-Security)
   - [Analyzing, Filtering, and Searching, Event Log and Syslog Output on a SIEM Dashboard](https://github.com/LuisMateo1/Analyzing-Filtering-and-Searching-Event-Log-and-syslog-Output)
+  - [Assessing the Impact of Web Application Vulnerabilities **(SQLi & DOR)**](https://github.com/LuisMateo1/Assessing-the-Impact-of-Web-Application-Vulnerabilities)
 - **Active Directory/IAM Labs**
   - [Identity and Access Management - Performing Account and Permissions Audits](https://github.com/LuisMateo1/IAM-Performing-Account-and-Permissions-Audits)
   - [Identity and Access Management - Configuring and Analyzing Share Permissions](https://github.com/LuisMateo1/IAM-Configuring-and-Analyzing-Share-Permissions)
