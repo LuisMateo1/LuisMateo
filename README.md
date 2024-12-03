@@ -14,6 +14,8 @@
   - [Assessing the Impact of Web Application Vulnerabilities **(SQLi & DOR)**](https://github.com/LuisMateo1/Assessing-the-Impact-of-Web-Application-Vulnerabilities)
   - [Configuring SIEM Agents and Collectors](https://github.com/LuisMateo1/Configuring-SIEM-Agents-and-Collectors)
   - [Analyzing Network Related Indicators of Compromise](https://github.com/LuisMateo1/Analyzing-Network-Related-IoCs)
+  - [Configuring Vulnerability Scanning and Analyzing Outputs](https://github.com/LuisMateo1/Configuring-Vulnerability-Scanning-and-Analyzing-Outputs)
+  - [Collecting and Validating Digital Evidence](https://github.com/LuisMateo1/Collecting-and-Validating-Digital-Evidence)
 - **Active Directory/IAM Labs**
   - [Identity and Access Management - Performing Account and Permissions Audits](https://github.com/LuisMateo1/IAM-Performing-Account-and-Permissions-Audits)
   - [Identity and Access Management - Configuring and Analyzing Share Permissions](https://github.com/LuisMateo1/IAM-Configuring-and-Analyzing-Share-Permissions)
